@@ -1,0 +1,73 @@
+.box{
+	position: relative;
+	border: 2px solid grey;
+	height: 1250px;
+	width: 800px;
+	left: 250px;
+}
+.circle{
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	margin-top: 20px;
+	margin-left: 150px;
+	display: block;
+	
+}
+h1{
+	position: relative;
+	top:30px;
+	left:250px;
+}
+p{
+	padding-top: 30px;
+	padding-left: 40px;
+	padding-right: 40px;
+	font-size: 20px;
+	text-align:center;
+}
+h2{
+	margin-left: 20px;
+}
+.html{
+	background-color: #867E7E;
+	margin-left:50px;
+	margin-right: 200px;
+	padding: 20px;
+	color:white;
+}
+.css{
+	background-color: #867E7E;
+	margin-left:50px;
+	margin-top: 30px; 	
+	margin-right: 350px;
+	padding: 20px;
+	color:white;
+}
+.java{
+	background-color: #867E7E;
+	margin-left:50px;
+	margin-top: 30px;
+	margin-right: 450px;
+	padding: 20px;
+	color:white;
+}
+
+.none{
+	position: relative;
+	left: 50px;
+	width:700px;
+
+	
+
+}
+.porta{
+	display:inline-block;
+	position: relative;
+	margin:15px;
+
+}
+img{
+	height: 150px;
+	width: 200px;
+}
